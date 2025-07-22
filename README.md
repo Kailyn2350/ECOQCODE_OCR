@@ -1,6 +1,6 @@
 # ECOQCODE OCR Project
 
-This project focuses on developing an Optical Character Recognition (OCR) system specifically designed to detect the presence of 'ECOQCODE' text within images. It utilizes a Convolutional Neural Network (CNN) for binary classification, determining whether an image contains the specified text or not.
+This project focuses on developing an Optical Character Recognition (OCR) system specifically designed to detect the presence of 'ECOQCODE' text within images. It utilizes a Convolutional Recurrent Neural Network (CRNN) for binary classification, determining whether an image contains the specified text or not.
 
 ## Features
 
